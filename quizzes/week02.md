@@ -65,10 +65,10 @@ i++
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-
+parameters define functions while arguments are the values the functions receive 
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+primitive is built into javascript while refrence is a referance to an other calculated value
 ```
